@@ -15,8 +15,7 @@
 ## 📊 GitHub Stats
 
 [![SRJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srjranjan&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars,contributed&show_icons=true&count_private=true&theme=neon)](https://github.com/srjranjan)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srjranjan&theme=neon" alt="srjranjan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srjranjan&theme=neon&exclude_days=Sun" alt="srjranjan" /></p>
 
 ## 🏆 GitHub Trophies
 
