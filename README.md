@@ -1,52 +1,118 @@
-<h1 align="center">Hi 👋, I'm <b>SRJ</b></h1>
-
-<h3 align="center">Android Developer   <a href="https://nobroker.in" target="_blank" rel="noreferrer"> <span style="font-size: 1.5em; color: #24A791;">@Nobroker </span></a></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srjranjan&label=Profile%20views&color=0e75b6&style=flat" alt="srjranjan" /> </p>
-
-## SRJ's WakaTime stats 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=srjranjan&theme=neon"/>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:24A791&height=200&section=header&text=Hi%20👋,%20I'm%20SRJ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20@%20NoBroker&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-## Top Languages 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srjranjan&show_icons=true&locale=en&layout=pie&theme=neon" alt="srjranjan" />
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24A791&center=true&vCenter=true&width=600&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Building+delightful+Android+experiences;Exploring+app+architectures+for+fun+%F0%9F%A7%AA;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
 </p>
-
-## 📊 GitHub Stats
-
-[![SRJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srjranjan&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars,contributed&show_icons=true&count_private=true&theme=neon)](https://github.com/srjranjan)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srjranjan&theme=neon&exclude_days=Sun" alt="srjranjan" /></p>
-
-## 🏆 GitHub Trophies
-
-[![SRJ's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srjranjan&theme=onestar&margin-w=15&margin-h=15no-bg=truea&row=2&column=4)](https://github.com/srjranjan)
-
-
-## 🔧 Technologies & Tools
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://java.com" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-<a href="https://www.xml.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/>
-<a href="https://gradle.org" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/> </a><a href="https://json.org" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="40" height="40"/> </a> <a href="https://play.google.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="google play" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://zoom.us/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="zoom" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://play.google.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="google play" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://amplitude.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" width="40" height="40">
-</a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"style="margin-left: 5px; margin-right: 10px;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-
-
-## 🌱 I’m currently 
-
-Exploring the latest trends in Android development and improving my skills in 🚀 Android Ecosytem and looking for collaborating projects for the same.
-
-
-## ⚡ Fun fact
-
-I enjoy experimenting with different Android app architectures in my free time.
-
-
-## 📫 How to reach me
 
 <p align="center">
-<a href="https://twitter.com/srjranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srjranjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srjranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srjranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/srjranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srjranjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srjranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srjranjan" height="30" width="40" /></a>
+  <a href="https://nobroker.in"><img src="https://img.shields.io/badge/Working%20at-NoBroker-24A791?style=for-the-badge" alt="NoBroker" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srjranjan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/srjranjan?tab=followers"><img src="https://img.shields.io/github/followers/srjranjan?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" /></a>
 </p>
 
+---
+
+### 🧑‍💻 About Me
+
+```kotlin
+data class Developer(
+    val name: String = "SRJ",
+    val role: String = "Android Developer @ NoBroker",
+    val currentlyExploring: List<String> = listOf("Kotlin Multiplatform", "Jetpack Compose", "Modern Android Architecture"),
+    val lookingFor: String = "Exciting projects to collaborate on 🚀",
+    val funFact: String = "I experiment with different Android app architectures in my free time 🧪",
+)
+```
+
+- 🌱 Exploring the latest trends in the **Android ecosystem** and sharpening my skills every day
+- 🤝 Looking to **collaborate** on Android / Kotlin projects
+- ⚡ **Fun fact:** I love experimenting with different app architectures just for fun
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**Android & Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+
+**Cloud, Backend & Analytics**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
+
+**Tools**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srjranjan&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars,contributed&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=srjranjan&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srjranjan&theme=tokyonight&hide_border=true&exclude_days=Sun" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srjranjan&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srjranjan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/srjranjan">
+    <img src="https://github-profile-trophy.vercel.app/?username=srjranjan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/srjranjan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/srjranjan"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/srjranjan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com/srjranjan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24A791,100:0e75b6&height=120&section=footer" alt="footer" />
+</p>
